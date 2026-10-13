@@ -1,0 +1,6 @@
+{
+  "name": "Universal Wi-Fi Security",
+  "description": "Universal Wi-Fi security platform for Bangladesh. Monitor routers, detect unknown devices, approve access, manage guests, and enforce network policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
